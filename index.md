@@ -2,7 +2,7 @@
 
 ## My Assingments
 
-* [Assignment 0](): This is uploaded for trial purpose.
+* [Assignment 0]() : This is uploaded for trial purpose.
 
 
 
