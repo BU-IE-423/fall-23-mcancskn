@@ -11,5 +11,5 @@
 * [Assignment_2](files/all_datasss.csv) : Aggregated CSV File for Project Part 2
 
 * [Assignment_3](files/IE 423 QUALITY ENGINEERING.pdf) : PDF File for Project Part 3
-* [Assignment_3](files/423 - PART 3 - CODE.ipynb : IPynb File for Project Part 3
+* [Assignment_3](files/423 - PART 3 - CODE.ipynb) : IPynb File for Project Part 3
 * [Assignment_3](files/423 - PART 3 - CODE.html) : HTML File for Project Part 3
